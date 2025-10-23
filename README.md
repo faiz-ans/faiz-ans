@@ -4,8 +4,9 @@
 
 I am deeply motivated to realize systemic and infrastructural change, emphasizing my engineering efforts towards the design of more efficient, fair, and sustainable processes and pipelines.
 
-Currently, I'm contributing towards collective action in the tech space as a backend engineer. 
+Currently, I'm contributing towards collective action in the tech space as a backend engineer. ⚒
 
 Previous:
-* Infrastructure Software Engineer at 🎥 Filmtools
-* Pipeline Support Specialist for 🍔 *Bob's Burgers* and 🌲 *Central Park* at Bento Box Entertainment. [IMDb](https://www.imdb.com/name/nm11636236/).
+* Infrastructure Software Engineer at 🎥 <ins>Filmtools</ins>
+* Scalar Web Platform Engineer & Unity Game Developer at 💻 The Ahmanson Lab at <ins>USC</ins>
+* Pipeline Support Specialist for 🍔 *Bob's Burgers* and 🌲 *Central Park* at <ins>Bento Box Entertainment</ins>. [IMDb](https://www.imdb.com/name/nm11636236/).
